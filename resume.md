@@ -24,13 +24,13 @@ Education
 Experience
 ----------
 
-**Independent Contractor (Apr 2017 - Present)**
+**Independent Contractor (Apr 2017 - Present)**  
 Slice Technologies, Inc
 
 * Software Development
 
 **Substitute Military Service (July 2015 - July 2016)**  
-K-12 Education Administration, Ministry of Education 
+K-12 Education Administration, Ministry of Education
 
 * System Maintenance
 * Automation Program Development
@@ -41,9 +41,11 @@ Programming Language
 :   **Python**
 
 Project
-:   **SITW Second Hand Trade**: Website for students to trade seconded goods. (Develop backend using `Django`)
+:   **SITW Second Hand Trade**: Website for students to trade seconded goods.  
+    (Develop backend using `Django`)
 
-:   **Degue Line Bot**: Chatbot that answers dengue fever related questions. (Develop backend using `Django`)
+:   **Degue Line Bot**: Chatbot that answers dengue fever related questions.  
+    (Develop backend using `Django`)
 
 :   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities.  
     In this project, we used natural language processing tools such as `jieba`, `word2vec` and `nltk` and combined concepts from psychology.
