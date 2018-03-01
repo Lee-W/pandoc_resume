@@ -13,7 +13,7 @@ Education
 2016 - 2018 (expected)
 :   **Master, Computer Science and Information Engineering**  
     National Cheng Kung University (Tainan, Taiwan)  
-    Current GPA: 4.13/4.3
+    Current GPA: 4.16/4.3
 
 2011 - 2015
 :   **Bachelor, Industrial and Information Management**  
@@ -43,13 +43,10 @@ Programming Language
 Project
 :   **SITW Second Hand Trade**: Website for students to trade seconded goods.  
     (Develop backend using `Django`)
-
 :   **Degue Line Bot**: Chatbot that answers dengue fever related questions.  
     (Develop backend using `Django`)
-
 :   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities.  
     In this project, we used natural language processing tools such as `jieba`, `word2vec` and `nltk` and combined concepts from psychology.
-
 :   **[Line Echo Bot](https://github.com/Lee-W/line_echobot)**: Line Chatbot implementation using different Python Web Frameworks. (e.g. `Django`, `Flask`, `Sanic`)
 
 Open Source Contributions
@@ -67,3 +64,8 @@ Honors & Awards
 
 2011-2012
 :	Outstanding Student Wei Lee - For the Academic Achievement in 2011-2012
+
+Publications
+---------------
+1. Wei Lee, Chien-Wei Chang, Po-An Yang, Chi-Hsuan Huang, Ming-Kuang Wu, Chu-Cheng Hsieh, Kun-Ta Chuang "Effective Quality Assurance for Data Labels through Crowdsourcing and Domain Expert Collaboration" 21st International Conference on Extending Database Technology, Demo Track (EDBT-2018)
+2. I-Lin Wang, Wei Lee,  Chiao-Yu Liao "Effective Heuristics for Scheduling Hump and Pullback Engines in Railroad Yard Operational Plans" Proceedings of the 10th Annual Conference of the Operations Research Society at Taiwan (ORSTW 2013)
