@@ -37,8 +37,8 @@ K-12 Education Administration, Ministry of Education
 
 Technical Experience
 --------------------
-Programming Language
-:   **Python**
+Skill
+:   Python, Backend Development
 
 Project
 :   **SITW Second Hand Trade**: Website for students to trade seconded goods.  
@@ -50,8 +50,8 @@ Project
 :   **[Line Echo Bot](https://github.com/Lee-W/line_echobot)**: Line Chatbot implementation using different Python Web Frameworks. (e.g. `Django`, `Flask`, `Sanic`)
 
 Open Source Contributions
-:   **[git extras](https://github.com/tj/git-extras)**: Contributed `git ignore-io` command.
-:   **[batavia](https://github.com/pybee/batavia), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixed.
+:   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
+:   **[batavia](https://github.com/pybee/batavia), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
 
 Honors & Awards
 ---------------
