@@ -1,4 +1,4 @@
-Lee Wei
+Lee, Wei
 =======
 
 -------------------     ----------------------------
@@ -29,13 +29,13 @@ Slice Technologies, Inc
 
 * Software Development
 
-**Chief Teaching Assistance (May 2018 - Present)**  
+**Chief Teaching Assistant (May 2018 - Present)**  
 [X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, NCKU
 
-* Management
-* Review Python Course ("Programming Design Foundation")
-* Design Data Structure Exercise (The first part of "Computer Science Foundations")
-* Lecture Web Backend (Flask) (The fourth part of "Computer Science Foundations")
+* Managing
+* Reviewing the teaching proposal of Python course, "Programming Design Foundation"
+* Designing exercises for "Data Structure", the first section of "Computer Science Foundations"
+* Lecturing "Web Programming, Database/Cloud Computing", the fourth section of "Computer Science Foundations"
 
 **Substitute Military Service (July 2015 - July 2016)**  
 K-12 Education Administration, Ministry of Education
