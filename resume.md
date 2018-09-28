@@ -10,7 +10,7 @@ Website                 [http://lee-w.github.io](http://lee-w.github.io)
 Education
 ---------
 
-2016 - 2018 (expected)
+2016 - 2018
 :   **Master, Computer Science and Information Engineering**  
     National Cheng Kung University (Tainan, Taiwan)  
     Current GPA: 4.16/4.3
@@ -28,6 +28,14 @@ Experience
 Slice Technologies, Inc
 
 * Software Development
+
+**Chief Teaching Assistance (May 2018 - Present)**  
+[X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, NCKU
+
+* Management
+* Review Python Course ("Programming Design Foundation")
+* Design Data Structure Exercise (The first part of "Computer Science Foundations")
+* Lecture Web Backend (Flask) (The fourth part of "Computer Science Foundations")
 
 **Substitute Military Service (July 2015 - July 2016)**  
 K-12 Education Administration, Ministry of Education
