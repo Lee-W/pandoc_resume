@@ -35,9 +35,9 @@ Slice Technologies, Inc
 [X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, NCKU
 
 * Manage the executive team with 16 members
-* Review the teaching proposal of Python course, "Programming Design Foundation."
-* Design exercises for "Data Structure," the first section of "Computer Science Foundations."
-* Lecture "Web Programming, Database/Cloud Computing," the fourth section of "Computer Science Foundations."
+* Review the teaching proposal of Python course, "Programming Design Foundation"
+* Design exercises for "Data Structure," the first section of "Computer Science Foundations"
+* Lecture "Web Programming, Database/Cloud Computing," the fourth section of "Computer Science Foundations"
 
 **Substitute Military Service (July 2015 - July 2016)**  
 K-12 Education Administration, Ministry of Education
