@@ -30,9 +30,13 @@ Slice Technologies, Inc
 * Develop the backend of an application in Flask with test coverage higher than 90%
 * Create a CI/CD pipeline for the existing code
 
+**Project Employee (Jan 2019 - Present)**  
+National Cheng Kung University
+
+* Containerized and fix legacy projects ([The Mosquito Man](https://github.com/the-mosquito-man))
 
 **Chief Teaching Assistant (May 2018 - Nov 2018)**  
-[X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, NCKU
+[X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, National Cheng Kung University
 
 * Manage the executive team with 16 members
 * Review the teaching proposal of Python course, "Programming Design Foundation"
