@@ -25,13 +25,13 @@ Experience
 ----------
 
 **Independent Contractor (Apr 2017 - Present)**  
-Slice Technologies, Inc
+[Slice Technologies, Inc](https://www.slice.com/about)
 
 * Develop the backend of an application in Flask with test coverage higher than 90%
 * Create a CI/CD pipeline for the existing code
 
 **Project Manager (Jan 2019 - March 2019)**  
-National Cheng Kung University DLT Lab
+[DLT Lab, National Cheng Kung University](https://dlt.csie.ncku.edu.tw)
 
 * Containerized and fix legacy projects ([The Mosquito Man](https://github.com/the-mosquito-man))
 
