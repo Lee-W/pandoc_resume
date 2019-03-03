@@ -30,8 +30,8 @@ Slice Technologies, Inc
 * Develop the backend of an application in Flask with test coverage higher than 90%
 * Create a CI/CD pipeline for the existing code
 
-**Project Employee (Jan 2019 - Present)**  
-National Cheng Kung University
+**Project Manager (Jan 2019 - March 2019)**  
+National Cheng Kung University DLT Lab
 
 * Containerized and fix legacy projects ([The Mosquito Man](https://github.com/the-mosquito-man))
 
