@@ -2,8 +2,8 @@ Lee, Wei
 =======
 
 -------------------     ----------------------------
-Email                   cl87654321@gmail.com
-Github                             [https://github.com/Lee-W](https://github.com/Lee-W)
+Email                   weilee.rx@gmail.com
+Github                  [https://github.com/Lee-W](https://github.com/Lee-W)
 Website                 [http://lee-w.github.io](http://lee-w.github.io)
 -------------------     ----------------------------
 
@@ -27,13 +27,14 @@ Experience
 **Independent Contractor (Apr 2017 - Present)**  
 [Slice Technologies, Inc](https://www.slice.com/about)
 
-* Develop the backend of an application in Flask with test coverage higher than 90%
+* Develop the backend of an application in [Flask](http://flask.pocoo.org) with test coverage higher than 90%
 * Create a CI/CD pipeline for the existing code
 
 **Project Manager (Jan 2019 - March 2019)**  
 [DLT Lab, National Cheng Kung University](https://dlt.csie.ncku.edu.tw)
 
 * Containerized and fix legacy projects ([The Mosquito Man](https://github.com/the-mosquito-man))
+* Setup CI/CD server and CI pipeline through [drone](https://github.com/drone/drone)
 
 **Chief Teaching Assistant (May 2018 - Nov 2018)**  
 [X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, National Cheng Kung University
@@ -53,19 +54,21 @@ K-12 Education Administration, Ministry of Education
 Technical Experience
 --------------------
 Skill
-:   Python, Web Backend Development, Git
+:   Python, Web Backend Development, Git, Docker
 
 Project
 :   **SITW Second Hand Trade**: Website for students to trade seconded goods  
-    (Develop backend using `Django`)
+    (Developing backend using `Django`)
 :   **Dengue Line Bot**: Chatbot that answers dengue fever related questions  
-    (Develop backend using `Django`)
+    (Developing backend using `Django`)
 :   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities  
     In this project, we used natural language processing tools such as `jieba,` `word2vec` and `nltk` and combined concepts from psychology.
 :   **[Line Echo Bot](https://github.com/Lee-W/line_echobot)**: Line Chatbot implementation using various Python Web Frameworks including `Django`,  `Flask`, and `Sanic`
 
 Open Source Contributions
 :   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
+:   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
+
 :   **[batavia](https://github.com/pybee/batavia), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
 
 Honors & Awards
