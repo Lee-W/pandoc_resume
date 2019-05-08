@@ -28,16 +28,16 @@ Work Experience
 **Independent Contractor (Apr 2017 - Present)**  
 [Slice Technologies, Inc](https://www.slice.com/about)
 
-* Designed and developed the backend of a data labeling system that automates the interaction between crowdsourcing workers and experts. Used [Flask](http://flask.pocco.org) as the backend framework, achieved test coverage higher than 90% and set up the CI/CD pipeline
+* Designed and developed the backend of a data labeling system that automates the interaction between crowdsourcing workers and experts. Implemented the system through [Flask](http://flask.pocco.org), achieved test coverage higher than 90% and set up the CI/CD pipeline
 * Set up the CI/CD pipeline for an existing system
 * Begin with analyzing template extraction problem
 
 **Project Manager (Jan 2019 - March 2019)**  
 [DLT Lab, National Cheng Kung University](https://dlt.csie.ncku.edu.tw)
 
-* Containerized and fix legacy projects ([The Mosquito Man](https://github.com/the-mosquito-man))
+* Containerized and fixed legacy projects in [The Mosquito Man](https://github.com/the-mosquito-man)
 * Introduced code review culture to a newly formed team
-* Set up CI/CD server and CI pipeline of two ongoing projects through [drone](https://github.com/drone/drone)
+* Set up a [drone](https://github.com/drone/drone) CI/CD server and created CI pipelines for two ongoing projects
 
 **Chief Teaching Assistant (May 2018 - Nov 2018)**  
 [X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, National Cheng Kung University
@@ -50,7 +50,7 @@ Work Experience
 **Substitute Military Service (July 2015 - July 2016)**  
 K-12 Education Administration, Ministry of Education
 
-* Maintained legacy systems implemented in multiple languages (e.g., C#, VBScript, PHP, etc.)
+* Maintained legacy systems implemented in multiple languages (e.g., `C#`, `VBScript`, `PHP`, and etc.)
 * Developed automation programs for generating reports which save 80% of human labor time
 * Delivered a human resource management system using [django](https://www.djangoproject.com)
 
@@ -58,8 +58,8 @@ Technical Experience
 --------------------
 
 Skill
-:   Intermidate: Python, Web Backend Development, Git, Linux  
-    Beginner: Docker, Project Management, Data Analysis, Java
+:   **Intermidate**: Python, Web Backend Development, Git, Linux  
+    **Beginner**: Docker, Project Management, Data Analysis, Java
 
 Additional Experience
 :   **SITW Second Hand Trade**: Website for students to trade seconded goods  
