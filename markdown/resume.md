@@ -25,7 +25,7 @@ Education
 Work Experience
 ----------
 
-**Independent Contractor (Apr 2017 - Present)**  
+**Software Engineer (Apr 2017 - Present)**  
 [Slice Technologies, Inc](https://www.slice.com/about)
 
 * Designed and developed the backend of a data labeling system that automates the interaction between crowdsourcing workers and experts. Implemented the system through [Flask](http://flask.pocco.org), achieved test coverage higher than 90% and set up the CI/CD pipeline
