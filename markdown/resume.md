@@ -73,7 +73,7 @@ Additional Experience
 Open Source Contributions
 :   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
 :   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
-:   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
+:   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
 
 Honors & Awards
 ---------------
