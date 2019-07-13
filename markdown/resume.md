@@ -8,20 +8,6 @@ Linkedin                [https://www.linkedin.com/in/clleew/](https://www.linked
 Website                 [http://lee-w.github.io](http://lee-w.github.io)
 -------------------     ----------------------------
 
-Education
----------
-
-2016 - 2018
-:   **Master, Computer Science and Information Engineering**  
-    National Cheng Kung University (Tainan, Taiwan)  
-    GPA: 4.16/4.3
-
-2011 - 2015
-:   **Bachelor, Industrial and Information Management**  
-    **Double Major: Computer Science and Information Engineering**  
-    National Cheng Kung University (Tainan, Taiwan)  
-    GPA: 3.77/4.0
-
 Work Experience
 ----------
 
@@ -54,6 +40,20 @@ K-12 Education Administration, Ministry of Education
 * Developed automation programs for generating reports which save 80% of human labor time
 * Delivered a human resource management system using [django](https://www.djangoproject.com)
 
+Education
+---------
+
+2016 - 2018
+:   **Master, Computer Science and Information Engineering**  
+    National Cheng Kung University (Tainan, Taiwan)  
+    GPA: 4.16/4.3
+
+2011 - 2015
+:   **Bachelor, Industrial and Information Management**  
+    **Double Major: Computer Science and Information Engineering**  
+    National Cheng Kung University (Tainan, Taiwan)  
+    GPA: 3.77/4.0
+
 Technical Experience
 --------------------
 
@@ -79,7 +79,7 @@ Honors & Awards
 ---------------
 
 2013
-:    Honorable Mention  
+:    Honorable Mention
     2013 Railway Application Section Problem Solving Competition
 
 2012-2013
