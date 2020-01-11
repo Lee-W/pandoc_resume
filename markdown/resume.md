@@ -15,8 +15,10 @@ Work Experience
 [Rakuten Slice](https://www.slice.com/about)
 
 * Designed and developed the backend of a data labeling system that automates the interaction between crowdsourcing workers and experts. Implemented the system through [Flask](http://flask.pocco.org), achieved test coverage higher than 90% and set up the CI/CD pipeline
-* Set up the CI/CD pipeline for an existing system
-* Begin with analyzing template extraction problem
+* Set up the CI/CD pipeline through Jenkins for existing systems to enhance productivity
+* Built data pipeline through [Airflow](https://airflow.apache.org/)
+* Added test for existing projects to ensure the functionality correctness
+* Cooperate with oversea teams in San Francisco and Ukraine
 
 **Project Manager (Jan 2019 - March 2019)**  
 [DLT Lab, National Cheng Kung University](https://dlt.csie.ncku.edu.tw)
@@ -40,6 +42,32 @@ K-12 Education Administration, Ministry of Education
 * Developed automation programs for generating reports which save 80% of human labor time
 * Delivered a human resource management system using [django](https://www.djangoproject.com)
 
+Technical Experience
+--------------------
+
+Skill
+:   **Intermidate**: Python, Web Backend Development, Git, Linux  
+    **Beginner**: Docker, Project Management, Data Analysis, Java
+
+Additional Experience
+:   **SITW Second Hand Trade**: Website for students to trade seconded goods  
+    (Developed backend using [django](https://www.djangoproject.com))
+:   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities  
+    In this project, we used natural language processing tools such as [jieba](https://github.com/fxsjy/jieba), [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [nltk](https://www.nltk.org) and combined concepts from psychology.
+
+Open Source Contributions
+:   **[commitizen](https://github.com/Woile/commitizen)**: Add new features and refactor codebase
+:   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
+:   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
+:   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
+
+Community Involvement
+--------------
+[PyCon Taiwan](https://tw.pycon.org/2019/en-us/)
+
+* Program Chair (Dec 2019 - Present)
+* Program Team Member (Jul 2019 - Nov 2019)
+
 Education
 ---------
 
@@ -53,27 +81,6 @@ Education
     **Double Major: Computer Science and Information Engineering**  
     National Cheng Kung University (Tainan, Taiwan)  
     GPA: 3.77/4.0
-
-Technical Experience
---------------------
-
-Skill
-:   **Intermidate**: Python, Web Backend Development, Git, Linux  
-    **Beginner**: Docker, Project Management, Data Analysis, Java
-
-Additional Experience
-:   **SITW Second Hand Trade**: Website for students to trade seconded goods  
-    (Developed backend using [django](https://www.djangoproject.com))
-:   **Dengue Line Bot**: Chatbot that answers dengue fever related questions  
-    (Developed backend using [django](https://www.djangoproject.com))
-:   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities  
-    In this project, we used natural language processing tools such as [jieba](https://github.com/fxsjy/jieba), [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [nltk](https://www.nltk.org) and combined concepts from psychology.
-:   **[Line Echo Bot](https://github.com/Lee-W/line_echobot)**: Line chatbot implementation using various Python web wrameworks including [django](https://www.djangoproject.com)), [flask](http://flask.pocoo.org), and [sanic](https://github.com/huge-success/sanic)
-
-Open Source Contributions
-:   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
-:   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
-:   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
 
 Honors & Awards
 ---------------
