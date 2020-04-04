@@ -58,7 +58,7 @@ Additional Experience
     In this project, we used natural language processing tools such as [jieba](https://github.com/fxsjy/jieba), [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [nltk](https://www.nltk.org) and combined concepts from psychology.
 
 Open Source Contributions
-:   **[commitizen](https://github.com/Woile/commitizen)**: Add new features and refactor codebase
+:   **[commitizen](https://github.com/commitizen-tools/commitizen)**: Add new features, refactor codebase, and maintain project
 :   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
 :   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
 :   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
