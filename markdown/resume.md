@@ -14,8 +14,9 @@ Work Experience
 **Software Engineer I (Apr 2017 - Present)**  
 [Rakuten Slice](https://www.slice.com/about)
 
-* Designed and developed the backend of a data labeling system that automates the interaction between crowdsourcing workers and experts. Implemented the system through [Flask](http://flask.pocco.org), achieved test coverage higher than 90% and set up the CI/CD pipeline
-* Built data pipeline through [Airflow](https://airflow.apache.org/)
+* Designed and developed the backend of a data labeling system which automates the interaction between crowdsourcing workers and experts to generate high quality labeled data
+* Build ETL processes
+* Built data pipelines through [Airflow](https://airflow.apache.org/)
 * Built best practice template for internal Python projects
 * Set up the CI/CD pipeline through [Jenkins](https://jenkins.io/) for existing systems to enhance productivity
 * Added test for existing projects to ensure the functionality correctness
@@ -33,9 +34,6 @@ Work Experience
 
 * Managed the executive team with 16 members
 * Organized two months of full-time courses and a one-semester 3 credit course
-* Reviewed the teaching proposal of Python course, "Programming Design Foundation"
-* Designed exercises for "Data Structure," the first section of "Computer Science Foundations"
-* Lectured "Web Programming, Database/Cloud Computing," the fourth section of "Computer Science Foundations"
 
 **Substitute Military Service (July 2015 - July 2016)**  
 K-12 Education Administration, Ministry of Education
@@ -58,14 +56,15 @@ Additional Experience
     In this project, we used natural language processing tools such as [jieba](https://github.com/fxsjy/jieba), [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [nltk](https://www.nltk.org) and combined concepts from psychology.
 
 Open Source Contributions
-:   **[commitizen](https://github.com/commitizen-tools/commitizen)**: Add new features, refactor codebase, and maintain project
+:   **[commitizen](https://github.com/commitizen-tools/commitizen)**: Maintainer
 :   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
 :   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
 :   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
 
 Public Speaking Experience
 --------------
-* [PyCon CA 2019](https://2019.pycon.ca/) - [Python Table Manners - A Clean Style](https://speakerdeck.com/leew/python-table-manners-a-clean-style-at-pycon-ca-2019)
+* [Remote Python Pizza 2020](https://speakerdeck.com/leew/what-can-we-gain-from-crafting-a-git-message-convention-at-remote-python-pizza-2020)
+* [PyCon CA 2019](https://speakerdeck.com/leew/python-table-manners-a-clean-style-at-pycon-ca-2019)
 
 Community Involvement
 --------------
