@@ -11,14 +11,13 @@ Website                 [http://lee-w.github.io](http://lee-w.github.io)
 Work Experience
 ----------
 
-**Software Engineer I (Apr 2017 - Present)**  
+**Software Engineer (Apr 2017 - Present)**  
 [Rakuten Slice](https://www.slice.com/about)
 
 * Designed and developed the backend of a data labeling system which automates the interaction between crowdsourcing workers and experts to generate high quality labeled data
-* Build ETL processes
-* Built data pipelines through [Airflow](https://airflow.apache.org/)
+* Built data pipelines through [Apache Airflow](https://airflow.apache.org/) for machine learning models
 * Built best practice template for internal Python projects
-* Set up the CI/CD pipeline through [Jenkins](https://jenkins.io/) for existing systems to enhance productivity
+* Set up the CI/CD pipeline through [Jenkins](https://jenkins.io/) for existing systems
 * Added test for existing projects to ensure the functionality correctness
 * Cooperate with oversea teams in San Mateo and Ukraine
 
@@ -49,20 +48,23 @@ Skill
 :   **Advance**: Python, Docker, Web Backend Development, Git, Linux  
     **Intermediate**: AWS, Project Management, Data Analysis
 
+Open Source Contributions
+:   **[commitizen-tools](https://github.com/commitizen-tools)**: Maintainer
+:   **[PyCon TW](https://github.com/pycontw)**: Implement [mail_handler](https://github.com/pycontw/mail_handler) and maintain [postevent-report-generator]
+:   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
+:   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
+:   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
+
 Additional Experience
 :   **SITW Second Hand Trade**: Website for students to trade seconded goods  
     (Developed backend using [django](https://www.djangoproject.com))
 :   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities  
     In this project, we used natural language processing tools such as [jieba](https://github.com/fxsjy/jieba), [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [nltk](https://www.nltk.org) and combined concepts from psychology.
 
-Open Source Contributions
-:   **[commitizen](https://github.com/commitizen-tools/commitizen)**: Maintainer
-:   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
-:   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
-:   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
 
 Public Speaking Experience
 --------------
+* [Euro Python 2020](https://ep2020.europython.eu/)
 * [Remote Python Pizza 2020](https://speakerdeck.com/leew/what-can-we-gain-from-crafting-a-git-message-convention-at-remote-python-pizza-2020)
 * [PyCon CA 2019](https://speakerdeck.com/leew/python-table-manners-a-clean-style-at-pycon-ca-2019)
 
