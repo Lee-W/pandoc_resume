@@ -29,7 +29,7 @@ Work Experience
 * Set up a [drone](https://github.com/drone/drone) CI/CD server and created CI pipelines for two ongoing projects
 
 **Chief Teaching Assistant (May 2018 - Nov 2018)**
-[X-Village](https://www.facebook.com/X-Village-423736361424301/?ref=br_rs) program, National Cheng Kung University
+[X-Village](https://www.facebook.com/X-Village-423736361424301/), National Cheng Kung University
 
 * Managed the executive team with 16 members
 * Organized two months of full-time courses and a one-semester 3 credit course
@@ -45,8 +45,8 @@ Technical Experience
 --------------------
 
 Skill
-:   **Advance**: Python, Docker, Web Backend Development, Git, Linux
-    **Intermediate**: AWS, Project Management, Data Analysis
+:   **Advance**: Python, Docker, Git, Linux, Web Backend Development
+:   **Intermediate**: AWS, Project Management, Data Analysis
 
 Open Source Contributions
 :   **[commitizen-tools](https://github.com/commitizen-tools)**: Maintainer
@@ -60,7 +60,6 @@ Additional Experience
     (Developed backend using [django](https://www.djangoproject.com))
 :   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities
     In this project, we used natural language processing tools such as [jieba](https://github.com/fxsjy/jieba), [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [nltk](https://www.nltk.org) and combined concepts from psychology.
-
 
 Public Speaking Experience
 --------------
