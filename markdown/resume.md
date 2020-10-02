@@ -69,7 +69,8 @@ Community Involvement
 --------------
 [PyCon Taiwan](https://tw.pycon.org/2019/en-us/)
 
-* Program Chair (Dec 2019 - Present)
+* Chairperson (Oct 2020 - Present)
+* Program Chair (Dec 2019 - Sep 2020)
 * Program Committee Member (Jul 2019 - Nov 2019)
 
 Education
