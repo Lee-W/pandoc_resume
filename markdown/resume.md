@@ -14,7 +14,7 @@ Work Experience
 **Software Engineer (Apr 2017 - Present)**
 [Rakuten Slice](https://www.slice.com/about)
 
-* Improved software engineering culture through building best practice templates which reduces project initializing time and automatically checks minor errors before code review
+* Improved software engineering culture through building best practice templates which reduces project initializing time and automatically checks errors before code review
 * Designed and developed the backend of a data labeling system which automates the interaction between crowdsourcing workers and experts to generate high quality labeled data
 * Built data pipelines through [Apache Airflow](https://airflow.apache.org/) for machine learning models
 * Set up the CI/CD pipeline through [Jenkins](https://jenkins.io/) for existing systems
@@ -37,7 +37,7 @@ Work Experience
 **Substitute Military Service (July 2015 - July 2016)**
 K-12 Education Administration, Ministry of Education
 
-* Maintained legacy systems implemented in multiple languages (e.g., `C#`, `VBScript`, `PHP`, etc.)
+* Maintained legacy systems implemented in multiple languages including `C#`, `VBScript`, `PHP`, and etc.
 * Developed automation programs for generating reports which save 80% of human labor time
 * Delivered a human resource management system using [django](https://www.djangoproject.com)
 
@@ -46,7 +46,7 @@ Technical Experience
 
 Skill
 :   **Advance**: Python, Docker, Git, Linux, Web Backend Development
-:   **Intermediate**: AWS, Project Management, Data Analysis
+:   **Intermediate**: AWS, Project Management, Data Engineering, Data Analysis
 
 Open Source Contributions
 :   **[commitizen-tools](https://github.com/commitizen-tools)**: Maintainer
