@@ -50,7 +50,7 @@ Skill
 
 Open Source Contributions
 :   **[commitizen-tools](https://github.com/commitizen-tools)**: Maintainer
-:   **[PyCon TW](https://github.com/pycontw)**: Develop [mail_handler](https://github.com/pycontw/mail_handler) and maintain [postevent-report-generator]
+:   **[PyCon TW](https://github.com/pycontw)**: Develop [mail_handler](https://github.com/pycontw/mail_handler) and maintain [postevent-report-generator](https://github.com/pycontw/pycontw-postevent-report-generator)
 :   **[git extras](https://github.com/tj/git-extras)**: Add `git ignore-io` command
 :   **[templater](https://github.com/Lee-W/templater)**: Update [templater](https://github.com/Lee-W/templater) to Python3 and release [templater3](https://pypi.org/project/templater3/)
 :   **[flask](https://github.com/pallets/flask)**, **[batavia](https://github.com/beeware/batavia), [toga](https://github.com/beeware/toga/), [podium](https://github.com/beeware/podium), [wtforms-json](https://github.com/kvesteri/wtforms-json), [pipreqs](https://github.com/bndr/pipreqs), [edx-platform](https://github.com/edx/edx-platform), [edx-documentation](https://github.com/edx/edx-documentation), [pelican-clean-blog](https://github.com/gilsondev/pelican-clean-blog), [pip-check](https://github.com/bartTC/pip-check)**: Bug fixes
