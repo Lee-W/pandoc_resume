@@ -12,14 +12,14 @@ Work Experience
 ----------
 
 **Software Engineer (Apr 2017 - Present)**
-[Rakuten Slice](https://www.slice.com/about)
+[Rakuten USA](https://www.rakuten.com/)
 
-* Improved software engineering culture through building best practice templates which reduces project initializing time and automatically checks errors before code review
-* Designed and developed the backend of a data labeling system which automates the interaction between crowdsourcing workers and experts to generate high quality labeled data
-* Built data pipelines through [Apache Airflow](https://airflow.apache.org/) for machine learning models
+* Improved software engineering culture through building best-practice templates that reduce project initializing time and automatically checks errors before code review
+* Developed backend API for machine learning services
+* Built data pipelines through [Apache Airflow](https://airflow.apache.org/) for data processing and model generation
+* Designed and developed data labeling backend which automates the interaction between crowdsourcing workers and experts to generate high quality labeled data
 * Set up the CI/CD pipeline through [Jenkins](https://jenkins.io/) for existing systems
-* Added test for existing projects to ensure the functionality correctness
-* Cooperate with oversea teams in San Mateo and Ukraine
+* Cooperate with overseas teams in San Mateo and Ukraine
 
 **Project Manager (Jan 2019 - March 2019)**
 [DLT Lab, National Cheng Kung University](https://dlt.csie.ncku.edu.tw)
@@ -37,7 +37,7 @@ Work Experience
 **Substitute Military Service (July 2015 - July 2016)**
 K-12 Education Administration, Ministry of Education
 
-* Maintained legacy systems implemented in multiple languages including `C#`, `VBScript`, `PHP`, and etc.
+* Maintained legacy systems implemented in multiple languages, including `C#`, `VBScript`, `PHP`, etc.
 * Developed automation programs for generating reports which save 80% of human labor time
 * Delivered a human resource management system using [django](https://www.djangoproject.com)
 
@@ -45,8 +45,8 @@ Technical Experience
 --------------------
 
 Skill
-:   **Advance**: Python, Docker, Git, Linux, Web Backend Development
-:   **Intermediate**: AWS, Project Management, Data Engineering, Data Analysis
+:   **Advance**: Python, Docker, Git, Linux, Data Engineering, Web Backend Development
+:   **Intermediate**: AWS, Project Management, Data Analysis
 
 Open Source Contributions
 :   **[commitizen-tools](https://github.com/commitizen-tools)**: Maintainer
