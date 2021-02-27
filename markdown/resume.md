@@ -5,13 +5,13 @@ Wei Lee
 Email                   [weilee.rx@gmail.com](mailto:weilee.rx@gmail.com)
 Github                  [https://github.com/Lee-W](https://github.com/Lee-W)
 Linkedin                [https://www.linkedin.com/in/clleew/](https://www.linkedin.com/in/clleew/)
-Website                 [http://lee-w.github.io](http://lee-w.github.io)
+Website                 [https://lee-w.github.io](https://lee-w.github.io)
 -------------------     ----------------------------
 
 Work Experience
 ----------
 
-**Software Engineer (Apr 2017 - Present)**
+**Machine Learning Engineer (Apr 2017 - Present)**
 [Rakuten USA](https://www.rakuten.com/)
 
 * Improved software engineering culture through building best-practice templates that reduce project initializing time and automatically checks errors before code review
