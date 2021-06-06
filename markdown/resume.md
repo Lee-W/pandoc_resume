@@ -14,11 +14,10 @@ Work Experience
 **Machine Learning Engineer (Apr 2017 - Present)**
 [Rakuten USA](https://www.rakuten.com/)
 
-* Improved software engineering culture through building best-practice templates that reduce project initializing time and automatically checks errors before code review
+* Improved software engineering culture through building project templates that reduce project initializing time and automatically checks errors before code review
 * Developed backend API for machine learning services
-* Built data pipelines through [Apache Airflow](https://airflow.apache.org/) for data processing and model generation
+* Built data pipelines through [Apache Airflow](https://airflow.apache.org/) for processing data larger than 10G and generating models
 * Designed and developed data labeling backend which automates the interaction between crowdsourcing workers and experts to generate high quality labeled data
-* Set up the CI/CD pipeline through [Jenkins](https://jenkins.io/) for existing systems
 * Cooperate with overseas teams in San Mateo and Ukraine
 
 **Project Manager (Jan 2019 - March 2019)**
@@ -58,8 +57,6 @@ Open Source Contributions
 Additional Experience
 :   **SITW Second Hand Trade**: Website for students to trade seconded goods
     (Developed backend using [django](https://www.djangoproject.com))
-:   **vivid-bot**: Paraphrasing Chinese sentences according to different personalities
-    In this project, we used natural language processing tools such as [jieba](https://github.com/fxsjy/jieba), [word2vec](https://radimrehurek.com/gensim/models/word2vec.html) and [nltk](https://www.nltk.org) and combined concepts from psychology.
 
 Public Speaking Experience
 --------------
